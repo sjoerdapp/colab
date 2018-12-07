@@ -1,1 +1,1 @@
-# colab
+# Word2Vec
